@@ -1,7 +1,7 @@
 # Topological Spectral Homeostasis Model (v5.1)
 An open-system non-equilibrium thermodynamic and computational biophysics framework evaluating hypothesized emergent spectral shielding in 3D biological networks via a 4-state Factorial Double-Ablation Protocol.
 
-## 🌟 Research Integration & Epistemic Humility
+## 🌟 Research Integration 
 This repository documents the multi-scale formalization and structural evolution of an independent computational research pipeline.
 *   **Legacy Formulations (v1 - v3.0):** Explored localized 1D graph Laplacian statistics under closed-system, static assumptions. These early versions suffered from temporal dimensional flaws and claimed total system-bath isolation, which violates non-equilibrium thermodynamic laws.
 *   **Current Framework (v5.1 - `main.py`):** Re-engineered into a rigorous **3D Elastic Network Model (ENM) Mechanical Hessian** linked directly to an open quantum system spin dynamics engine. This framework does NOT claim to prove a physical, macro-environmental quantum "shield". Instead, it maintains strict epistemic humility by isolating topological connectivity from spatial configurations, evaluating how specific 3D protein graphs alter the spectral channels through which a dissipative bath couples to a sub-atomic quantum subsystem.
